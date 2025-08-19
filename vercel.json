@@ -1,0 +1,12 @@
+{
+   "version": 2,
+   "functions": {
+   "api/telegram.ts": {
+   "runtime": "nodejs20.x"
+  }
+   },
+    "routes": [
+    { "src": "/", "dest": "/api/telegram" },
+    { "src": "/api/telegram", "dest": "/api/telegram" }
+  ]
+}
