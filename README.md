@@ -18,8 +18,8 @@ _Bot Telegram dengan berbagai fitur untuk grup & channel, dijalankan di Vercel (
 ## 🚀 Deploy ke Vercel
 1. Clone repo
 ```bash
-git clone https://github.com/<username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/x866bash/BotTelegramVercel.git
+cd BotTelegramVercel
 ```
 ---
 2. Install dependencies
